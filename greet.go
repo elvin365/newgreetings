@@ -6,5 +6,5 @@ import (
 
 
 func Hello() {
-    fmt.Println("Hello from greeting package version 2")
+    fmt.Println("Hello from greeting package version 2.1")
 }
